@@ -1,7 +1,0 @@
-[submodule "spilib"]
-	path = spilib
-	url = https://github.com/Outernet-Project/spilib
-
-[submodule "gpiolib"]
-	path = gpiolib
-	url = https://github.com/Outernet-Project/gpiolib
